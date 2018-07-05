@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+What you need to do
 
-Things you may want to cover:
+* Rails 5 or greater
 
-* Ruby version
+* rails db:setup
 
-* System dependencies
+* rails db:migrate
 
-* Configuration
+* bundle install
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* rails s
